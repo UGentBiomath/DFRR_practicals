@@ -7,3 +7,11 @@ matplotlib
 plotly
 notebook
 ipykernel
+seaborn
+ipywidgets
+tqdm
+requests_cache
+retry_requests
+openmeteo_requests
+rdflib
+openpyxl
