@@ -1,0 +1,15 @@
+All atrributes are numeric and continuous
+
+N.  Attrib.    
+ 1  SI      Soluble inert organic matter
+ 2  SS      Readily biodegradable substrate
+ 3  XI      Particulate inert organic matter
+ 4  XS      Slowly biodegradable substrate
+ 5  XBH     Active heterotrophic biomass
+6  SNH      NH4 + NH3 nitrogen  
+7  SND      Soluble biodegradable organic nitrogen 
+8  XND      Particulate biodegradable organic nitrogen  
+9  SALK     Alkalinity  
+10  TSS     Total suspended solids 
+11  QI      Influent flow
+12  T       Temperature
